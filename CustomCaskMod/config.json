@@ -1,0 +1,8 @@
+{
+  "DisableLetter": false,
+  "EnableCasksAnywhere": true,
+  "EnableCustomAgersAnywhere": false,
+  "EnableMoreThanOneQualityIncrementPerDay": true,
+  "EnableCaskAgeEveryObject": false,
+  "DefaultAgingRate": 2.0
+}
